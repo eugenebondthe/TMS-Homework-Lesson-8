@@ -1,0 +1,12 @@
+{
+  "name": "tms-homework-lesson-8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx ts-node hw-8.ts",
+    "adv": "npx ts-node hw-8-adv.ts"
+  },
+  "author": "Eugene Bondarenko",
+  "license": "ISC"
+}
